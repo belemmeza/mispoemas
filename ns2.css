@@ -1,0 +1,53 @@
+h4{ color: #3D2217;
+  font-size:20px;
+  margin-left:100px;
+   margin-top:0px
+}
+h2{ color: #3D2217;
+  font-size:100px;
+  margin-left:400px;
+   margin-top:0px
+}
+h3{ color: #3D2217;
+  font-size:70px;
+  margin-left:100px;
+   margin-top:0px
+ }
+form{ color: #3D2217;
+  font-size:30px;
+   margin-left:90px;
+   margin-top:0px;
+}
+body{  border-image: url(c.png) 50/30px repeat;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+
+  font-size:20px;
+  margin-left:50px;
+   margin-top:0px
+}
+
+.nav-lista {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.nav-tipos {
+  color: sandybrown;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 0.0em;
+  transition: color 0.5s;
+}
+.nav-tipos:hover {
+  color: blue;
+}
